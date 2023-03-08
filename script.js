@@ -31,7 +31,7 @@ gsap
   .to(
     ".upper-container h2",
     {
-        delay: 1.5,
+        delay: 0.5,
         opacity: 0,
     },
     "start"
@@ -39,7 +39,7 @@ gsap
   .to(
     ".upper-container h3",
     {
-        delay: 1.5,
+        delay: 0.5,
         opacity: 1,
         scale: 5,
     },
@@ -48,7 +48,7 @@ gsap
   .to(
     ".upper-container h3",
     {
-        delay: 1.5,
+        delay: 0.5,
         opacity: 0,
     },
     "start"
@@ -57,7 +57,7 @@ gsap
   .to(
     ".upper-container h5",
     {
-      delay: 1.5,
+      delay: 0.5,
       opacity: 1,
       scale: 5,
     },
@@ -66,7 +66,7 @@ gsap
   .to(
     ".upper-container h5",
     {
-        delay: 1.5,
+        delay: 0.5,
         opacity: 0,
     },
     "start"
@@ -172,7 +172,7 @@ gsap
   .to(
     ".cardImage",
     {
-      delay: 1.5,
+      delay: 0.5,
       scale: 1,
     },
     "start"
@@ -180,7 +180,7 @@ gsap
   .to(
     ".cardImage",
     {
-      delay: 1.5,
+      delay: 0.5,
       opacity: 1,
     },
     "start"
